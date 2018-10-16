@@ -1,4 +1,4 @@
-// Variables
+// Variables  000
 const submitBtn = document.getElementById("loan-form");
 const resetBtn = document.getElementById("loan-form");
 
